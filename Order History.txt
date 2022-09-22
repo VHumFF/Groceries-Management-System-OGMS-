@@ -1,0 +1,9 @@
+000001;bob;8 Jln Setiamurni 1 Bukit Damansara;5983745;346;FP017@chicken meat@7.16@3;FP016@hourse meat@7.92@2;FP015@turtle@1.58@1
+000002;bob;8 Jln Setiamurni 1 Bukit Damansara;012415151234;57.2;FP024@Coriander@13.50@3;FP023@Cumcumber@5.90@2;FP022@Tomato@4.90@1
+000003;Ado;No. 4828, Mak Mandin Industrial Estate;0123456789;51.7;FP001@milk@12.00@3;FP002@Tomato@4.90@2;FP003@Cucumber@5.90@1
+000004;vernon;21, Taman Dinding, Jalan 123;0193257822;63.0;FP001@milk@12.00@3;FP004@Coriander@13.50@2
+000005;john;No. 16 Jln Lau Ek Ching;0192345678;56.0;FP002@Tomato@4.90@3;FP003@Cucumber@5.90@7
+000006;Korone;1A 12 Jln 3/1A Taman Kepong Indah;0126784567;5.9;FP003@Cucumber@5.90@1
+000007;muhammad;58 Jln Pasar Kuala Lumpur;01627824523;24.0;FP001@milk@12.00@2
+000008;Calli;C 56 Jln Ss6/14 Ss6 Petaling Jaya;0192342345;29.7;FP003@Cucumber@5.90@3;FP001@milk@12.00@1
+000009;vernon;21, Taman Dinding, Jalan 123;0193257822;192.35;FP013@Curry Leaves (Daun Kari) 25g@0.80@4;FR008@Frozen Mixed Vegetables (500g)@5.20@1;FR002@Nestle Vanilla Ice Cream 1.5L@7.20@2;BV012@Milo Softpack 1kg@21.59@5;HC005@Karex One Oasis 60ml@13.10@2;HC006@Eno Ginger Sachet 2X4.3g@3.50@1;BP006@Rexona Men's Deodorant 50ml@12.30@1;BP005@Makeup Sponge 8pcs@4.90@2;HH010@Adhesive Cable Management Clip 16pcs@4.90@2

@@ -1,0 +1,7 @@
+HC001;Caress Basic Adult Diapers M10;16.60
+HC002;Tena Value L 8S;19.65
+HC003;Dettol Liquid 1L;47.99
+HC004;Scent Pur Instant Hand Sanitizer 500ml;13.90
+HC005;Karex One Oasis 60ml;13.10
+HC006;Eno Ginger Sachet 2X4.3g;3.50
+HC007;Strepsils Honey & Lemon 100g;5.90

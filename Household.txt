@@ -1,0 +1,10 @@
+HH001;Clorox Regular 4L;19.30
+HH002;Zip FLORAL multipurpose Scouring Powder;6.50
+HH003;Sunlight Lemon 1L;8.20
+HH004;Aluminum foil non stick 5m;15.20
+HH005;Cup Brush 3pcs;14.40
+HH006;Budget 3in1 Toilet 10 Rolls;15.20
+HH007;Vinda Deluxe Toilet Paper Roll;3.90
+HH008;Toilet Pump;4.90
+HH009;Gas Stove Rack;4.90
+HH010;Adhesive Cable Management Clip 16pcs;4.90

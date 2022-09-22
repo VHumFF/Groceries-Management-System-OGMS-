@@ -1,0 +1,7 @@
+vernon;vernon123;21, Taman Dinding, Jalan 123;0193257822
+Ado;abc123;No. 4828, Mak Mandin Industrial Estate;0123456789
+bob;bob456456;8 Jln Setiamurni 1 Bukit Damansara;0172347898
+john;hello123;No. 16 Jln Lau Ek Ching;0192345678
+Korone;563yen;1A 12 Jln 3/1A Taman Kepong Indah;0126784567
+muhammad;PNY3994;58 Jln Pasar Kuala Lumpur;01627824523
+Calli;deadbeats;C 56 Jln Ss6/14 Ss6 Petaling Jaya;0192342345

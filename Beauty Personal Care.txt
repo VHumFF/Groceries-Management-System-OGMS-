@@ -1,0 +1,6 @@
+BP001;Sensodyne Toothpaste Gum Care 100g;17.10
+BP002;Oral B Essential Floss Mint Wax;15.50
+BP003;Colgate Toothpaste Fresh Cool Mint 180g;12.20
+BP004;Vaseline Fresh & Bright Cooling 100ml;13.80
+BP005;Makeup Sponge 8pcs;4.90
+BP006;Rexona Men's Deodorant 50ml;12.30

@@ -1,0 +1,8 @@
+FR001;Haagen Dazs Vanilla Ice Cream 473ml;34.50
+FR002;Nestle Vanilla Ice Cream 1.5L;7.20
+FR003;Marina Chicken Sausage (300g);6.40
+FR004;Ramly Beef Burger 420g;7.30
+FR005;Sailors Chicken Sausage (400g);24.90
+FR006;KG Pastry Flower Roll (375g);8.20
+FR007;Karts Chicken Pau (360g);8.25
+FR008;Frozen Mixed Vegetables (500g);5.20

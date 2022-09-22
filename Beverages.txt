@@ -1,0 +1,12 @@
+BV001;Vitagen Original Cultured Drink 125ml X 5;4.60
+BV002;Pokka Sencha 1.5L;5.20
+BV003;Nescafe Gold Blend (50g);11.90
+BV004;Old Town (525g) ;17.20
+BV005;Wonda Kopi Tarik 240ml;2.85
+BV006;Sunkist Apple Juice 1L;5.80
+BV007;Ceres Red Grape 1L;8.20
+BV008;100 Plus 1.5L;3.50
+BV009;Coca-Cola 1.5L;3.70
+BV010;Sprite 1.5L;3.70
+BV011;7up 1.5L;4.20
+BV012;Milo Softpack 1kg;21.59

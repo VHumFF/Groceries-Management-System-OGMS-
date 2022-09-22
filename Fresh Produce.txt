@@ -1,0 +1,13 @@
+FP001;Carrot (500g);3.40
+FP002;Potatoes (800g);8.40
+FP003;Choy Sam (200g);4.20
+FP004;Sweet Pea (130g);3.50
+FP005;Lemon 1pc;1.60
+FP006;Dragon Fruit White 1Pc;4.20
+FP007;Salted Egg (4S);7.90
+FP008;Frozen Minced Beef (300g);15.00
+FP009;Spring Chicken;16.00
+FP010;Cucumber (500g);5.90
+FP011;Tomato (275g);4.90
+FP012;Cameron Garden Basil (50g);4.60
+FP013;Curry Leaves (Daun Kari) 25g;0.80
