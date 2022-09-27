@@ -875,8 +875,8 @@ def login_attempts(log_attemps):
         time.sleep(1)
         print("\n" * 50)
     else:
-        print("\n" * 50)
-        exit("Attemps 3 of 3.\nYou have used up your login attempts. System shutting down.")
+        print("\n" * 50 + "Attemps 3 of 3.\nYou have used up your login attempts. System shutting down.")
+        exit(0)
 
 
 def login():
@@ -936,7 +936,7 @@ def main_menu():
             print("\n" * 50)
             print("=" * 30 + "\nThank you for using FRESHCO.\n" + "=" * 30 + "\n\n\n")
             time.sleep(1)
-            exit()
+            exit(0)
         else:
             display_message("=" * 52 + "\nYou entered an INVALID instruction, please try again\n" + "=" * 52)
 
