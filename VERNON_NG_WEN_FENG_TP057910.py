@@ -128,7 +128,7 @@ def record_order(total_price, item_in_cart, p_info):
         for line in read_order:
             order_id.append(line.strip().split(";"))
         # write order information into file
-        # the information is record in the form of XXX;XXX;XXX;XXX;item1@item2@item3
+        # the information is record in the form of XXX;XXX;XXX;XXX;item1_info@item1_info;item2_info@...
         # XXX are the personal information
         with open("Order History.txt", "a") as write_order:
             write_order.write(
@@ -240,8 +240,14 @@ def modify_cart():
             break
         # ask user to enter new quantity
         elif item_to_modify in itemid:
-            new_quantity = input("Enter new quantity:")
-            modify_item_quantity(item_to_modify, item_in_cart, new_quantity)
+            while True:
+                try:
+                    new_quantity = int(input("Enter new quantity:"))
+                    modify_item_quantity(item_to_modify, item_in_cart, new_quantity)
+                    break
+                except:
+                    display_message("="*27 + "\nPlease Enter a Proper Value\n" + "="*27)
+                    continue
         else:
             display_message("=" * 33 + "\nPlease Enter a Valid instruction.\n" + "=" * 33)
 
@@ -794,16 +800,20 @@ def user_PInfo(username, password):
     """
     while True:
         address = input("Enter your address: ")
-        contact_no = input("Enter your contact no: ")
-        if ";" in address or ";" in contact_no:
+        while True:
+            try:
+                contact_no = int(input("Enter your contact no: "))
+                break
+            except:
+                display_message("="*33 + "\nPlease enter a value phone number\n" + "="*33)
+                continue
+
+        if ";" in address or "@" in address:
             display_message("="*22 + "\nContain invalid symbol\n" + "="*22)
-            continue
-        elif "@" in address or "@" in contact_no:
-            display_message("=" * 22 + "\nContain invalid symbol\n" + "=" * 22)
             continue
 
         with open("Accounts.txt", "a") as writeinfo:
-            writeinfo.write(username + ";" + str(password) + ";" + address + ";" + contact_no + "\n")
+            writeinfo.write(username + ";" + str(password) + ";" + address + ";" + str(contact_no) + "\n")
         break
 
 
