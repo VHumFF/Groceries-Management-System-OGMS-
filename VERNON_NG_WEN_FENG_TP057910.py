@@ -658,12 +658,16 @@ def input_groceries(category_file):
             continue
 
         # ask for new item price and test the value
-        try:
-            input_item_price = float(input("Enter item price:RM"))
-            item_price = round(float(input_item_price), 2)
-        except:
-            display_message("=" * 29 + "\nPlease enter a proper value.\n" + "=" * 29)
-            continue
+        while True:
+            try:
+                input_item_price = float(input("Enter item price:RM"))
+                if input_item_price <= 0:
+                    display_message("=" * 30 + "\nPlease enter a positive value.\n" + "=" * 30)
+                    continue
+                item_price = round(float(input_item_price), 2)
+            except:
+                display_message("=" * 29 + "\nPlease enter a proper value.\n" + "=" * 29)
+                continue
 
         # ask to confirm new item or rewrite item information
         while True:
